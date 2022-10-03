@@ -22,6 +22,7 @@ Development of a model for predicting the cost of a car based on numerical metho
 - CatBoost - version 1.0.6
 - Sklearn - version 1.0.2
 - Matplotlib - version 3.2.2
+- Lightgbm - version 2.2.3
 
 
 ## Project Status
