@@ -1,4 +1,4 @@
-#Recommendation of the cost of the car based on its description
+# Recommendation of the cost of the car based on its description
 
 > The car sales app has collected historical data of prices and descriptions of cars. The new service should predict the price of the car based on the available data..
 
